@@ -1,0 +1,29 @@
+[10004:7360:0321/185525.856:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\workspace\python_mooc\lab_2_windows\windows\\\"iiwo27828\"\Atom Crashes" --v=1]
+[10004:7360:0321/185525.859:VERBOSE1:crash_service.cc(142)] window handle is 0000000000590B02
+[10004:7360:0321/185525.859:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\workspace\python_mooc\lab_2_windows\windows\"iiwo27828"\Atom Crashes
+[10004:7360:0321/185525.859:VERBOSE1:crash_service.cc(288)] checkpoint is C:\workspace\python_mooc\lab_2_windows\windows\"iiwo27828"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10004:7360:0321/185525.860:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[10004:11256:0321/185525.860:VERBOSE1:crash_service.cc(317)] client start. pid = 13572
+[10004:11256:0321/185526.971:VERBOSE1:crash_service.cc(317)] client start. pid = 10096
+[2468:10884:0321/185526.990:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\workspace\python_mooc\lab_2_windows\windows\\\"iiwo27828\"\Atom Crashes" --v=1]
+[2468:10884:0321/185526.993:VERBOSE1:crash_service.cc(142)] window handle is 00000000001E0AC6
+[2468:10884:0321/185526.993:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\workspace\python_mooc\lab_2_windows\windows\"iiwo27828"\Atom Crashes
+[2468:10884:0321/185526.993:VERBOSE1:crash_service.cc(288)] checkpoint is C:\workspace\python_mooc\lab_2_windows\windows\"iiwo27828"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[2468:10884:0321/185526.994:ERROR:crash_service.cc(295)] could not start dumper
+[10004:13516:0322/102759.741:VERBOSE1:crash_service.cc(325)] client end. pid = 13572
+[10004:13516:0322/102759.769:VERBOSE1:crash_service.cc(325)] client end. pid = 10096
+[10004:13516:0322/102800.775:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[10004:7360:0322/102800.775:VERBOSE1:crash_service.cc(486)] session ending..
+[10004:7360:0322/102800.775:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[10004:7360:0322/102800.775:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
